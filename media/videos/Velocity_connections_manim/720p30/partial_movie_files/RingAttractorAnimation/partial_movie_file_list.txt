@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/151669302_66111383_1662143091.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_2720189680_4079753980.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_4121715314_253038751.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_1850062279_1509690597.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_1397197996_564150271.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_4121715314_897573581.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_2198892550_626095115.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_3331303722_4040404694.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_4121715314_2522418580.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_3565132401_1951844022.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_3986892853_555674960.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Velocity_connections_manim/720p30/partial_movie_files/RingAttractorAnimation/1959534363_3801265094_862354904.mp4'

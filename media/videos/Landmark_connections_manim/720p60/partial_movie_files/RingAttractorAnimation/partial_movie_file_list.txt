@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Landmark_connections_manim/720p60/partial_movie_files/RingAttractorAnimation/2609757771_66111383_1056350476.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Landmark_connections_manim/720p60/partial_movie_files/RingAttractorAnimation/648898624_1859750850_300724510.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Landmark_connections_manim/720p60/partial_movie_files/RingAttractorAnimation/648898624_3494816192_1388203081.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Landmark_connections_manim/720p60/partial_movie_files/RingAttractorAnimation/648898624_1792981448_1692528709.mp4'
+file 'file:C:/Users/sebu1/Ring_attractors/media/videos/Landmark_connections_manim/720p60/partial_movie_files/RingAttractorAnimation/648898624_1925444564_259292302.mp4'
