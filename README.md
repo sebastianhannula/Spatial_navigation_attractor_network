@@ -13,7 +13,7 @@ This repository contains a simplified, discrete-time version of the model with a
 
 Below an example animation is included that shows the full process of learning a simple one dimensional environment. The brown ball at the bottom represents the learner that moves along the environment as shown and above it the ring attractor neural network activations are shown. In the beginning the connections are randomly initialized and during the animation the learning can be seen. For a more detailed explanation of the simulation and animation, refer to [this PowerPoint presentation](documents/presentation.pptx).
 
-![Simulation Animation](documents/simulation.gif)
+![Simulation Animation](documents/animation.gif)
 
 ## References
 
